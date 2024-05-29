@@ -3,12 +3,22 @@ output a text in ascii numerics
 
 How to use:
 
+
+
+
 compilation is easy.
 
 
 If you're using Linux:
 
     $ gcc ascii.c -o ascii
+
+
+
+
+
+
+
 
 Optional configuration to make the executable feel like a terminal command utility:
 
