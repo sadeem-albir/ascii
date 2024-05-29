@@ -35,7 +35,7 @@ Find a text_file you want to translate
 
 Type:
 
-    $ cat [text_file] ascii [OPTIONS] >> new_file
+    $ cat [text_file] ascii [OPTIONS] >> [new_file]
 
 This will output the whole file text to 'new_file' in the number format you gave it,
 or in decimal numbers by default. Make sure 'new_file' has a unique file name so that you
