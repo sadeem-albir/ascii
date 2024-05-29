@@ -16,7 +16,7 @@ Optional configuration to make the executable feel like a terminal command utili
   
   Add this line:
   
-    alias ascii='./ascii'
+    alias ascii='/path/to/ascii'
   
   Now you can use it like this:
   
