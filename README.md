@@ -35,10 +35,11 @@ Find a text_file you want to translate
 
 Type:
 
-    $ cat <text_file> ascii [OPTIONS]
+    $ cat <text_file> ascii [OPTIONS] >> new_file
 
-This will output the whole file text to standard output in the number format you gave it,
-or in decimal numbers by default.
+This will output the whole file text to 'new_file' in the number format you gave it,
+or in decimal numbers by default. Make sure 'new_file' has a unique file name so that you
+don't accidentally concatenate the output to an existing file.
 
 
 
