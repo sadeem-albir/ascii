@@ -10,7 +10,7 @@ If you're using Linux:
 
     $ gcc ascii.c -o ascii
 
-Optional configuration to make the executable feel like a terminal command:
+Optional configuration to make the executable feel like a terminal command utility:
 
   Go to ~/.bashrc in vim or nano
   
